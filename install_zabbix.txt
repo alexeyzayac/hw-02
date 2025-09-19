@@ -1,8 +1,8 @@
 history:
     1  apt update
     2  apt full-upgrade -y
-    5  sudo apt install postgresql postgresql-contrib
-    6  sudo systemctl enable --now postgresql
+    5  apt install postgresql postgresql-contrib
+    6  systemctl enable --now postgresql
     7  apt autoremove -y
     8  apt purge ~c -y
     9  apt full-upgrade -y

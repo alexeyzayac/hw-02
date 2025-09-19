@@ -67,6 +67,12 @@
 
 #### Результат:
 
+[Текст использованных команд](install_zabbix_agent.txt)
+
+![img](img/screenshot_2.png)
+![img](img/screenshot_3.png)
+![img](img/screenshot_4.png)
+
 ---
 
 ## Дополнительные задания* (со звёздочкой)
